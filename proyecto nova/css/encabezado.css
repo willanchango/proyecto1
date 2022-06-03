@@ -7,8 +7,7 @@ body{
 }
 div#encabezado{
 background-color: rgb(103, 138, 114);
-width: 1350px;
-height: 80px;
+
 }
 button{
     position: relative;
